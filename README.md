@@ -1,9 +1,14 @@
-<img width="387" height="548" alt="image" src="https://github.com/user-attachments/assets/5ef1f0f3-7526-4d53-967e-86fc098c1438" /># NewsApplication
+# NewsApplication
 A modern and responsive news application built with React. Users can browse the latest news by categories such as Technology, Business, Sports, Health, and Entertainment.
 
 🖼️ Project Screenshots
 
+<img width="1866" height="979" alt="Screenshot 2025-11-14 122513" src="https://github.com/user-attachments/assets/5afdd2d8-1b36-4440-9ec7-a01b59dc4961" />
 
+<img width="1859" height="989" alt="Screenshot 2025-11-14 122546" src="https://github.com/user-attachments/assets/49bd13db-d4a8-43e3-a146-c7bd12143d53" />
+
+
+<img width="387" height="548" alt="image" src="https://github.com/user-attachments/assets/d24cb683-30be-4504-9605-1f0152030356" />
 
 
 
